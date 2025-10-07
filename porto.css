@@ -1029,7 +1029,7 @@ color: white;
     padding: 10px;
     }
     #nav-container .nav-flex{
-        width: 100%;
+        width: 99%;
     }
     nav ul{
      flex-direction: column;
@@ -1245,7 +1245,7 @@ a:hover{
     border-radius:10px ;
     gap: 2rem;
     padding: 10px;
-    width: 200%;
+    width: 100%;
     box-sizing: border-box;
     height: 600px;
 }
@@ -1458,11 +1458,9 @@ a:hover{
   height: 230vh;
   
 }
-     .content-section {
-   width: 200%;
-   margin:auto:
+   
 }
-}
+
 
 
 
