@@ -1245,7 +1245,7 @@ a:hover{
     border-radius:10px ;
     gap: 2rem;
     padding: 10px;
-    width: 200%;
+    width: 300%;
     box-sizing: border-box;
     height: 600px;
 }
@@ -1459,6 +1459,7 @@ a:hover{
   
 }
 }
+
 
 
 
