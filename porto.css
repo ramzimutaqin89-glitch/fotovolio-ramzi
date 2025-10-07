@@ -1069,14 +1069,12 @@ a:hover{
 }
 
 .conta{
-    /* Batasi ukuran wadah agar gambar tidak terlalu besar */
    width: 350px;
    height: 53%;
    padding: 10px;
  
 }
 .conta img{
-    /* Gambar di dalamnya akan menyesuaikan diri dengan wadah */
     width: 320px ;
     height: 53%;
     margin: 110px auto;
@@ -1247,7 +1245,7 @@ a:hover{
     border-radius:10px ;
     gap: 2rem;
     padding: 10px;
-    width: 100%;
+    width: 200%;
     box-sizing: border-box;
     height: 600px;
 }
@@ -1461,5 +1459,6 @@ a:hover{
   
 }
 }
+
 
 
