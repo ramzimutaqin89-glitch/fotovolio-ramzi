@@ -1049,7 +1049,7 @@ color: white;
 
     .nav-brand h2{
         position: absolute;
-        right: 20px;
+        right: 40px;
     }
 
     #nav-container nav{
@@ -1460,6 +1460,7 @@ a:hover{
 }
    
 }
+
 
 
 
